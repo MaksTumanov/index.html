@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+header{
+    text-align: left;
+}
+
+.square{
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    background-color: #fff;
+}
+
+.square2{
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    background-color: #fff;
+}
